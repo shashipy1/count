@@ -1,4 +1,4 @@
-import './App.css';
+import React from 'react';
 import Count from './Count';
 import Skk from './Skk';
 
