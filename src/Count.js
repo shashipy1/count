@@ -16,6 +16,7 @@ const Count = ()=>{
         {console.log('page is render')}
         <h1>Program start seconds {seconds}</h1>
         <h2>Hey, Shashi, How are you?</h2>
+        <h1>welcome to deligence technology</h1>
     </div>
 }
 
